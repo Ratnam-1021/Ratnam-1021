@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ratnam Singh 👋
+<img src="./assets/ratnam-banner.svg" width="100%" alt="Ratnam Singh — iOS Developer" />
 
 ### iOS Developer · AI Enthusiast · Software Engineer
 
