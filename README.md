@@ -170,25 +170,65 @@ AI-assisted application designed to explain technical concepts in a clear, struc
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Ratnam-1021">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&icon_color=0A66C2&text_color=334155&rank_icon=github" alt="Ratnam's GitHub Stats" />
-</a>
+### Overview
 
-<a href="https://github.com/Ratnam-1021">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&text_color=334155&langs_count=8" alt="Top Languages" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" width="100%" alt="GitHub profile overview statistics" />
+</picture>
 
-<br><br>
+<br />
 
-<a href="https://github.com/Ratnam-1021">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnam-1021&days=31&bg_color=e0f2fe&color=334155&line=0A66C2&point=0A66C2&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</a>
+### Contribution Momentum
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/momentum.dark.svg" />
+  <img src="./assets/momentum.light.svg" width="100%" alt="GitHub contribution momentum chart" />
+</picture>
+
+<br />
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" width="100%" alt="GitHub contribution activity and streaks" />
+</picture>
+
+<br />
+
+### Contribution Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" />
+  <img src="./assets/composition.light.svg" width="100%" alt="GitHub contribution composition chart" />
+</picture>
+
+<br />
+
+### Activity Rhythm
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rhythm.dark.svg" />
+  <img src="./assets/rhythm.light.svg" width="100%" alt="GitHub contribution activity rhythm" />
+</picture>
+
+<br />
+
+### Language Distribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" width="100%" alt="GitHub language distribution" />
+</picture>
 
 </div>
+
+> 📌 **Updated automatically every day** using GitHub Actions. The cards are generated from GitHub data and stored directly in this repository, so the profile does not depend on a live third-party stats endpoint.
 ---
 
 <div align="center">
