@@ -174,6 +174,18 @@ AI-assisted application designed to explain technical concepts in a clear, struc
 
 <div align="center">
 
+### GitHub Snapshot
+
+<p>
+  <img src="https://img.shields.io/github/stars/Ratnam-1021?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=0A66C2" alt="Total GitHub stars" />
+  <img src="https://img.shields.io/github/followers/Ratnam-1021?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0A66C2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/repo-size/Ratnam-1021/Ratnam-1021?style=for-the-badge&logo=github&logoColor=white&label=Profile%20Repo&color=0A66C2" alt="Profile repository size" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/created-at/Ratnam-1021/SpendWise?style=for-the-badge&label=Project%20Activity&color=0A66C2" alt="Project activity" />
+</p>
+
 ### Overview
 
 <picture>
@@ -228,7 +240,9 @@ AI-assisted application designed to explain technical concepts in a clear, struc
 
 </div>
 
-> 📌 **Updated automatically every day** using GitHub Actions. The cards are generated from GitHub data and stored directly in this repository, so the profile does not depend on a live third-party stats endpoint.
+> 🏆 **Achievements:** Your GitHub achievements are shown by GitHub itself in the profile sidebar. The README analytics focus on contribution and repository data. GitHub currently keeps Achievements as a separate profile element. citeturn0search1turn0search4
+
+> 📌 **Updated automatically every day** using GitHub Actions. The analytics cards are generated from GitHub data and stored directly in this repository, while the snapshot badges read live GitHub values.
 ---
 
 <div align="center">
