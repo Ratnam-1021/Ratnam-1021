@@ -65,7 +65,7 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 
 </div>
 
-**SpendWise** — Personal finance tracker built with **SwiftUI**, designed for simple expense tracking and financial management.
+**[SpendWise](https://github.com/Ratnam-1021/SpendWise)** — A premium personal finance tracker built with **SwiftUI, Swift Charts, and MVVM**. Track daily expenses, analyze spending trends with native charts, search transactions, and manage expenses with a clean, privacy-focused local storage experience.
 
 **TT Breakdown** — iOS application built with **Swift/UIKit**, focused on table-tennis analysis. Worked on the UI/UX design across **11 iOS screens**.
 
