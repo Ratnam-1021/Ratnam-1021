@@ -52,10 +52,10 @@ Welcome to my GitHub! I love building intelligent applications, structured syste
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Ratnam's GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=default&hide_border=true&bg_color=e0f2fe&count_private=true&include_all_commits=true" alt="Ratnam's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=radical&hide_border=true&background=0D1117" alt="Ratnam's GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=default&hide_border=true&background=e0f2fe" alt="Ratnam's GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -63,7 +63,7 @@ Welcome to my GitHub! I love building intelligent applications, structured syste
 ### 🛠️ Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Ratnam's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=default&hide_border=true&bg_color=e0f2fe" alt="Ratnam's Top Languages" />
 </p>
 
 ---
