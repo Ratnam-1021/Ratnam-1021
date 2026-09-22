@@ -60,7 +60,7 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 <div align="center">
 
 <a href="https://github.com/Ratnam-1021/SpendWise">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=SpendWise&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=SpendWise&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&v=2" />
 </a>
 
 </div>
