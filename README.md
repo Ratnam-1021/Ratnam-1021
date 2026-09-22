@@ -1,73 +1,104 @@
-<h1 align="center">Hi there, I'm Ratnam Singh! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <i>Passionate Developer | AI Enthusiast | Java & Android Developer</i>
-</p>
+# Hi, I'm Ratnam Singh 👋
 
-<p align="center">
-  <a href="mailto:ratnamsingh23@gmail.com"><img src="https://img.shields.io/badge/Email-ratnamsingh23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ratnam-1021&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+### Developer · AI Enthusiast · Java & Android Developer
 
----
-
-### 👨‍💻 About Me
-
-Welcome to my GitHub! I love building intelligent applications, structured systems, and solving complex problems. 
-
-- 🔭 **Currently Building:** AI-integrated apps like **TravelGPT** and **NovaAgent**, alongside personal finance tools like **SpendWise**.
-- 🌱 **Learning & Exploring:** Deepening my knowledge in Data Structures & Algorithms (DSA), advanced Java concepts, and LLMs.
-- 💻 **Tech Stack & Interests:** Java, Android Development, AI/LLMs, and Full-Stack Development.
-- 📫 **Reach me at:** [ratnamsingh23@gmail.com](mailto:ratnamsingh23@gmail.com)
-
----
-
-### 🏢 Organizations I've Joined
-
-<p align="left">
-  <a href="https://github.com/Project-DSA-ARMY">
-    <img src="https://avatars.githubusercontent.com/u/260605030?s=100&v=4" width="60" height="60" alt="Project-DSA-ARMY" style="border-radius: 50%; margin-right: 15px;" />
+<p>
+  <a href="mailto:ratnamsingh23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Team-7-Infy">
-    <img src="https://avatars.githubusercontent.com/u/297085318?s=100&v=4" width="60" height="60" alt="Team-7-Infy" style="border-radius: 50%; margin-right: 15px;" />
-  </a>
-  <a href="https://github.com/TT-Breakdown">
-    <img src="https://avatars.githubusercontent.com/u/311137068?s=100&v=4" width="60" height="60" alt="TT-Breakdown" style="border-radius: 50%; margin-right: 15px;" />
+  <a href="https://github.com/Ratnam-1021">
+    <img src="https://img.shields.io/badge/GitHub-Ratnam--1021-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
----
-
-### 🚀 Highlighted Projects
-
-* **[TravelGPT](https://github.com/Ratnam-1021/TravelGPT):** An AI-powered travel assistant and planner.
-* **[NovaAgent](https://github.com/Ratnam-1021/NovaAgent) & [TopicExplainer](https://github.com/Ratnam-1021/TopicExplainer):** Projects exploring the capabilities of AI agents and automated explanations.
-* **[SpendWise](https://github.com/Ratnam-1021/SpendWise):** A comprehensive application for managing and tracking personal expenses.
-* **Java Core Projects:** Built robust backend systems including a `java-library-management`, `java-Employee-management`, and `java-Grade-Manager`.
-
----
-
-### 📊 My GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=default&hide_border=true&bg_color=e0f2fe&count_private=true&include_all_commits=true" alt="Ratnam's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=default&hide_border=true&background=e0f2fe" alt="Ratnam's GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=default&hide_border=true&bg_color=e0f2fe" alt="Ratnam's Top Languages" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ratnam-1021&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I enjoy turning ideas into useful software — from AI-powered applications and intelligent agents to Android apps and Java-based systems.
+
+I'm currently focused on **AI/LLMs, Java, Android development, problem solving, and building practical products**.
+
+### What I'm working on
+
+| | Focus |
+|---|---|
+| 🤖 | **AI & LLMs** — agents, intelligent applications, and automated workflows |
+| 📱 | **Application Development** — Android and practical user-focused apps |
+| ☕ | **Java** — core concepts, OOP, and application development |
+| 🧠 | **Problem Solving** — DSA, algorithms, and structured systems |
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Ratnam-1021/TravelGPT">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=TravelGPT&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+</a>
+
+<a href="https://github.com/Ratnam-1021/NovaAgent">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=NovaAgent&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+</a>
+
+<a href="https://github.com/Ratnam-1021/SpendWise">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=SpendWise&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+</a>
+
+<a href="https://github.com/Ratnam-1021/TopicExplainer">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=TopicExplainer&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+</a>
+
+</div>
+
+**TravelGPT** · AI-powered travel assistant and planner  
+**NovaAgent** · Exploring AI agents and intelligent workflows  
+**SpendWise** · Personal finance and expense management  
+**TopicExplainer** · AI-assisted explanations for complex topics
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,android,python,js,html,css,react,nodejs,mongodb,mysql,git,docker&perline=6" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&icon_color=0A66C2&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=default&hide_border=true&background=e0f2fe&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
+
+</div>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together! 🚀</i>
+
+### Building. Learning. Improving. 🚀
+
+*Let's connect and build something useful together.*
+
 </div>
