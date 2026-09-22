@@ -59,17 +59,43 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💰 SpendWise
+
+**SwiftUI · Swift Charts · MVVM**
+
+Premium personal finance tracker for iOS with expense management, spending insights, search, and native charts.
+
 <a href="https://github.com/Ratnam-1021/SpendWise">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=SpendWise&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&v=2" />
+<img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View SpendWise" />
 </a>
 
+</td>
+<td width="33%" align="center">
+
+### 🏓 TT Breakdown
+
+**Swift · UIKit · Storyboard · Figma**
+
+Table-tennis analysis application focused on player and match workflows, with UI/UX designed across **11 iOS screens**.
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 EchoStack
+
+**SwiftUI · SwiftData · Foundation Models**
+
+Modern iOS application exploring Apple's latest frameworks and intelligent, model-powered experiences.
+
+</td>
+</tr>
+</table>
+
 </div>
-
-**[SpendWise](https://github.com/Ratnam-1021/SpendWise)** — A premium personal finance tracker built with **SwiftUI, Swift Charts, and MVVM**. Track daily expenses, analyze spending trends with native charts, search transactions, and manage expenses with a clean, privacy-focused local storage experience.
-
-**TT Breakdown** — iOS application built with **Swift/UIKit**, focused on table-tennis analysis. Worked on the UI/UX design across **11 iOS screens**.
-
-**EchoStack** — Modern **SwiftUI + SwiftData** application exploring Apple's newer frameworks and **Foundation Models**.
 
 ---
 
