@@ -17,9 +17,24 @@ Welcome to my GitHub! I love building intelligent applications, structured syste
 
 - 🔭 **Currently Building:** AI-integrated apps like **TravelGPT** and **NovaAgent**, alongside personal finance tools like **SpendWise**.
 - 🌱 **Learning & Exploring:** Deepening my knowledge in Data Structures & Algorithms (DSA), advanced Java concepts, and LLMs.
-- 🏢 **Organizations:** Proud member of **Project-DSA-ARMY**, **Team-7-Infy**, and **TT-Breakdown**.
 - 💻 **Tech Stack & Interests:** Java, Android Development, AI/LLMs, and Full-Stack Development.
 - 📫 **Reach me at:** [ratnamsingh23@gmail.com](mailto:ratnamsingh23@gmail.com)
+
+---
+
+### 🏢 Organizations I've Joined
+
+<p align="left">
+  <a href="https://github.com/Project-DSA-ARMY">
+    <img src="https://avatars.githubusercontent.com/u/260605030?s=100&v=4" width="60" height="60" alt="Project-DSA-ARMY" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+  <a href="https://github.com/Team-7-Infy">
+    <img src="https://avatars.githubusercontent.com/u/297085318?s=100&v=4" width="60" height="60" alt="Team-7-Infy" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+  <a href="https://github.com/TT-Breakdown">
+    <img src="https://avatars.githubusercontent.com/u/311137068?s=100&v=4" width="60" height="60" alt="TT-Breakdown" style="border-radius: 50%; margin-right: 15px;" />
+  </a>
+</p>
 
 ---
 
