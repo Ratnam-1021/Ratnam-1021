@@ -85,11 +85,11 @@ Table-tennis analysis application focused on player and match workflows, with UI
 </td>
 <td width="33%" align="center">
 
-### 🧠 EchoStack
+### 📚 EchoStack
 
-**SwiftUI · SwiftData · Foundation Models**
+**SwiftUI · Swift · AVFoundation · Speech · QuickLook**
 
-Modern iOS application exploring Apple's latest frameworks and intelligent, model-powered experiences.
+Native iOS study-material organizer for college students, featuring recursive subject stacks, voice-powered document search, drag-and-drop organization, visual folder navigation, and fully offline access.
 
 <a href="https://github.com/RajatM-56/EchoStack">
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View EchoStack" />
