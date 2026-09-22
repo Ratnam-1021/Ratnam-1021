@@ -54,7 +54,7 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 
 ## 🚀 Featured Work
 
-### 🍎 iOS Projects
+### <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="24" height="24" alt="Apple" /> iOS Projects
 
 <div align="center">
 
