@@ -91,6 +91,10 @@ Table-tennis analysis application focused on player and match workflows, with UI
 
 Modern iOS application exploring Apple's latest frameworks and intelligent, model-powered experiences.
 
+<a href="https://github.com/RajatM-56/EchoStack">
+<img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View EchoStack" />
+</a>
+
 </td>
 </tr>
 </table>
