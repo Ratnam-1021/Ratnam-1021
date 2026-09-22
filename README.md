@@ -66,7 +66,9 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 
 **SwiftUI · Swift Charts · MVVM**
 
-Premium personal finance tracker for iOS with expense management, spending insights, and native charts.
+Premium personal finance tracker for iOS.<br />
+Track expenses and manage personal finances.<br />
+Explore spending insights with native charts.
 
 <a href="https://github.com/Ratnam-1021/SpendWise">
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View SpendWise" />
@@ -79,7 +81,9 @@ Premium personal finance tracker for iOS with expense management, spending insig
 
 **Swift · UIKit · Storyboard · Figma**
 
-Table-tennis analysis app focused on player and match workflows, with UI/UX designed across **11 iOS screens**.
+Table-tennis analysis app for player workflows.<br />
+Built around match and player analysis.<br />
+UI/UX designed across **11 iOS screens**.
 
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View TT Breakdown" />
 
@@ -88,9 +92,11 @@ Table-tennis analysis app focused on player and match workflows, with UI/UX desi
 
 ### 📚 EchoStack
 
-**SwiftUI · Swift · AVFoundation · Speech · QuickLook**
+**SwiftUI · Swift · iOS Frameworks**
 
-Offline study-material organizer with recursive stacks, voice search, drag-and-drop organization, and document preview.
+Offline study-material organizer for students.<br />
+Organize files with recursive stacks and voice search.<br />
+Supports drag-and-drop and native document preview.
 
 <a href="https://github.com/RajatM-56/EchoStack">
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View EchoStack" />
