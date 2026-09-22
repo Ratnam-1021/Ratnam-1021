@@ -13,6 +13,9 @@ Building **native iOS apps, AI-powered products, and practical software systems.
   <a href="https://github.com/Ratnam-1021">
     <img src="https://img.shields.io/badge/GitHub-Ratnam--1021-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/ratnam-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Ratnam-1021&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
