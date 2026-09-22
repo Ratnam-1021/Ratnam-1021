@@ -60,7 +60,7 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 💰 SpendWise
 
@@ -73,7 +73,7 @@ Premium personal finance tracker for iOS with expense management, spending insig
 </a>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🏓 TT Breakdown
 
@@ -84,7 +84,7 @@ Table-tennis analysis app focused on player and match workflows, with UI/UX desi
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View TT Breakdown" />
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 📚 EchoStack
 
@@ -110,7 +110,7 @@ Offline study-material organizer with recursive stacks, voice search, drag-and-d
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### ✈️ TravelGPT
 
@@ -123,7 +123,7 @@ AI-powered travel assistant designed to help users explore destinations and buil
 </a>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🤖 NovaAgent
 
@@ -136,7 +136,7 @@ AI agent project exploring tool usage, memory, reasoning workflows, and intellig
 </a>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 💡 TopicExplainer
 
