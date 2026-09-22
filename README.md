@@ -18,7 +18,6 @@ Building **native iOS apps, AI-powered products, and practical software systems.
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ratnam-1021&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -109,21 +108,49 @@ Offline study-material organizer with recursive stacks, voice search, drag-and-d
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ✈️ TravelGPT
+
+**AI · LLMs · Travel Planning**
+
+AI-powered travel assistant designed to help users explore destinations and build personalized travel plans.
+
 <a href="https://github.com/Ratnam-1021/TravelGPT">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=TravelGPT&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+<img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View TravelGPT" />
 </a>
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 NovaAgent
+
+**AI Agents · Tools · Memory**
+
+AI agent project exploring tool usage, memory, reasoning workflows, and intelligent task execution.
 
 <a href="https://github.com/Ratnam-1021/NovaAgent">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=NovaAgent&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+<img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View NovaAgent" />
 </a>
 
+</td>
+<td width="33%" align="center">
+
+### 💡 TopicExplainer
+
+**AI · LLMs · Education**
+
+AI-assisted application designed to explain technical concepts in a clear, structured, and accessible way.
+
+<img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View TopicExplainer" />
+
+</td>
+</tr>
+</table>
+
 </div>
-
-**TravelGPT** — AI-powered travel assistant and planning application.
-
-**NovaAgent** — Exploring AI agents, tools, memory, and intelligent workflows.
-
-**TopicExplainer** — AI-assisted system for explaining technical concepts.
 
 ---
 
