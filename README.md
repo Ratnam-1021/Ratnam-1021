@@ -14,18 +14,21 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=radical" alt="Ratnam's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=radical" alt="Ratnam's GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=radical" alt="Ratnam's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=radical" alt="Ratnam's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Top Languages
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=radical" alt="Ratnam's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=radical" alt="Ratnam's Top Languages" />
 </p>
 
 ---
