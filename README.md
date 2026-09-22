@@ -2,7 +2,9 @@
 
 # Hi, I'm Ratnam Singh 👋
 
-### Developer · AI Enthusiast · Java & Android Developer
+### iOS Developer · AI Enthusiast · Software Engineer
+
+Building **native iOS apps, AI-powered products, and practical software systems.**
 
 <p>
   <a href="mailto:ratnamsingh23@gmail.com">
@@ -13,9 +15,7 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ratnam-1021&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Ratnam-1021&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -23,22 +23,54 @@
 
 ## 👨‍💻 About Me
 
-I enjoy turning ideas into useful software — from AI-powered applications and intelligent agents to Android apps and Java-based systems.
+I'm a Computer Science student who enjoys turning ideas into polished, useful software.
 
-I'm currently focused on **AI/LLMs, Java, Android development, problem solving, and building practical products**.
+My strongest focus is **native iOS development**, while I also explore **AI/LLMs, Java, Python, and full-stack systems**. I care about clean architecture, intuitive UI/UX, and building products that solve real problems.
 
-### What I'm working on
+### 🍎 iOS Journey
 
-| | Focus |
-|---|---|
-| 🤖 | **AI & LLMs** — agents, intelligent applications, and automated workflows |
-| 📱 | **Application Development** — Android and practical user-focused apps |
-| ☕ | **Java** — core concepts, OOP, and application development |
-| 🧠 | **Problem Solving** — DSA, algorithms, and structured systems |
+**Apple × Infosys iOS Student Developer Program**  
+Selected among **100 students from 2,000+ applicants** for a year-long iOS development program.
+
+Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Human Interface Guidelines**.
 
 ---
 
-## 🚀 Featured Projects
+## ✨ What I Build
+
+<div align="center">
+
+| 🍎 iOS & Mobile | 🤖 AI & Intelligent Apps | 💻 Software Systems |
+|:---:|:---:|:---:|
+| Swift · SwiftUI · UIKit | AI Agents · LLMs | Java · Python |
+| SwiftData · Xcode | AI-powered products | APIs · Databases |
+| Apple HIG · Figma | Automation · AI workflows | Full-stack development |
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+### 🍎 iOS Projects
+
+<div align="center">
+
+<a href="https://github.com/Ratnam-1021/SpendWise">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=SpendWise&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
+</a>
+
+</div>
+
+**SpendWise** — Personal finance tracker built with **SwiftUI**, designed for simple expense tracking and financial management.
+
+**TT Breakdown** — iOS application built with **Swift/UIKit**, focused on table-tennis analysis. Worked on the UI/UX design across **11 iOS screens**.
+
+**EchoStack** — Modern **SwiftUI + SwiftData** application exploring Apple's newer frameworks and **Foundation Models**.
+
+---
+
+### 🤖 AI & Application Projects
 
 <div align="center">
 
@@ -50,20 +82,13 @@ I'm currently focused on **AI/LLMs, Java, Android development, problem solving, 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=NovaAgent&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
 </a>
 
-<a href="https://github.com/Ratnam-1021/SpendWise">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=SpendWise&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
-</a>
-
-<a href="https://github.com/Ratnam-1021/TopicExplainer">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Ratnam-1021&repo=TopicExplainer&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
-</a>
-
 </div>
 
-**TravelGPT** · AI-powered travel assistant and planner  
-**NovaAgent** · Exploring AI agents and intelligent workflows  
-**SpendWise** · Personal finance and expense management  
-**TopicExplainer** · AI-assisted explanations for complex topics
+**TravelGPT** — AI-powered travel assistant and planning application.
+
+**NovaAgent** — Exploring AI agents, tools, memory, and intelligent workflows.
+
+**TopicExplainer** — AI-assisted system for explaining technical concepts.
 
 ---
 
@@ -71,7 +96,13 @@ I'm currently focused on **AI/LLMs, Java, Android development, problem solving, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,android,python,js,html,css,react,nodejs,mongodb,mysql,git,docker&perline=6" />
+### Mobile & Apple
+<img src="https://skillicons.dev/icons?i=swift,apple&perline=6" />
+
+**Swift · SwiftUI · UIKit · SwiftData · Xcode · Apple HIG · Figma**
+
+### Languages & Development
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,docker&perline=10" />
 
 </div>
 
@@ -87,18 +118,10 @@ I'm currently focused on **AI/LLMs, Java, Android development, problem solving, 
 
 </div>
 
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&theme=default&hide_border=true&bg_color=e0f2fe&title_color=0A66C2" />
-
-</div>
-
 ---
 
 <div align="center">
 
-### Building. Learning. Improving. 🚀
-
-*Let's connect and build something useful together.*
+### Build • Learn • Ship 🚀
 
 </div>
