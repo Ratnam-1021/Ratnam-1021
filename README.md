@@ -66,9 +66,9 @@ Currently building with **Swift, SwiftUI, UIKit, Xcode, SwiftData, and Apple Hum
 
 **SwiftUI · Swift Charts · MVVM**
 
-Premium personal finance tracker for iOS.<br />
-Track expenses and manage personal finances.<br />
-Explore spending insights with native charts.
+Premium personal finance tracker.<br />
+Track expenses with smart insights.<br />
+Explore spending with native charts.
 
 <a href="https://github.com/Ratnam-1021/SpendWise">
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View SpendWise" />
@@ -81,9 +81,9 @@ Explore spending insights with native charts.
 
 **Swift · UIKit · Storyboard · Figma**
 
-Table-tennis analysis app for player workflows.<br />
-Built around match and player analysis.<br />
-UI/UX designed across **11 iOS screens**.
+Table-tennis analysis for players.<br />
+Analyze matches and player data.<br />
+UI/UX designed across 11 screens.
 
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View TT Breakdown" />
 
@@ -94,9 +94,9 @@ UI/UX designed across **11 iOS screens**.
 
 **SwiftUI · Swift · iOS Frameworks**
 
-Offline study-material organizer for students.<br />
-Organize files with recursive stacks and voice search.<br />
-Supports drag-and-drop and native document preview.
+Offline study-material organizer.<br />
+Organize files with recursive stacks.<br />
+Search study files with your voice.
 
 <a href="https://github.com/RajatM-56/EchoStack">
 <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View EchoStack" />
@@ -246,7 +246,7 @@ AI-assisted application designed to explain technical concepts in a clear, struc
 
 </div>
 
-> 🏆 **Achievements:** Your GitHub achievements are shown by GitHub itself in the profile sidebar. The README analytics focus on contribution and repository data. GitHub currently keeps Achievements as a separate profile element. citeturn0search1turn0search4
+> 🏆 **Achievements:** Your GitHub achievements are shown by GitHub itself in the profile sidebar. The README analytics focus on contribution and repository data. GitHub currently keeps Achievements as a separate profile element.
 
 > 📌 **Updated automatically every day** using GitHub Actions. The analytics cards are generated from GitHub data and stored directly in this repository, while the snapshot badges read live GitHub values.
 ---
