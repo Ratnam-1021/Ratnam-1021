@@ -88,7 +88,7 @@ Table-tennis analysis app focused on player and match workflows, with UI/UX desi
 
 ### 📚 EchoStack
 
-**SwiftUI · Swift · AVFoundation**
+**SwiftUI · Swift · AVFoundation · Speech · QuickLook**
 
 Offline study-material organizer with recursive stacks, voice search, drag-and-drop organization, and document preview.
 
