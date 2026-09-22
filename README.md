@@ -175,21 +175,20 @@ AI-assisted application designed to explain technical concepts in a clear, struc
 <div align="center">
 
 <a href="https://github.com/Ratnam-1021">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ratnam-1021&show_icons=true&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&icon_color=0A66C2&text_color=334155&rank_icon=github" alt="Ratnam's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&icon_color=0A66C2&text_color=334155&rank_icon=github" alt="Ratnam's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Ratnam-1021">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&text_color=334155&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ratnam-1021&layout=compact&hide_border=true&bg_color=e0f2fe&title_color=0A66C2&text_color=334155&langs_count=8" alt="Top Languages" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Ratnam-1021">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnam-1021&bg_color=e0f2fe&color=334155&line=0A66C2&point=0A66C2&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnam-1021&days=31&bg_color=e0f2fe&color=334155&line=0A66C2&point=0A66C2&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
 </div>
-
 ---
 
 <div align="center">
