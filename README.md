@@ -180,18 +180,6 @@ AI-assisted application designed to explain technical concepts in a clear, struc
 
 <div align="center">
 
-### GitHub Snapshot
-
-<p>
-  <img src="https://img.shields.io/github/stars/Ratnam-1021?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=0A66C2" alt="Total GitHub stars" />
-  <img src="https://img.shields.io/github/followers/Ratnam-1021?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0A66C2" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/repo-size/Ratnam-1021/Ratnam-1021?style=for-the-badge&logo=github&logoColor=white&label=Profile%20Repo&color=0A66C2" alt="Profile repository size" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/created-at/Ratnam-1021/SpendWise?style=for-the-badge&label=Project%20Activity&color=0A66C2" alt="Project activity" />
-</p>
-
 ### Overview
 
 <picture>
