@@ -1,1 +1,52 @@
-<svg/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030313"/><stop offset="0.55" stop-color="#08021d"/><stop offset="1" stop-color="#02010c"/></linearGradient>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="0.55" stop-color="#c77dff"/><stop offset="1" stop-color="#7c3cff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#7c2cff" stop-opacity=".7"/><stop offset="1" stop-color="#7c2cff" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="1200" height="400" fill="url(#bg)"/>
+<ellipse cx="690" cy="220" rx="260" ry="210" fill="url(#glow)" filter="url(#blur)"/>
+<g fill="none" stroke="#8b3dff" stroke-opacity=".45">
+  <circle cx="840" cy="215" r="125"/><circle cx="840" cy="215" r="170"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+  <circle cx="54" cy="55" r="28" fill="#17112e" stroke="#6737c9"/>
+  <text x="54" y="65" text-anchor="middle" font-size="28" fill="white">⌘</text>
+  <text x="100" y="62" font-size="17" letter-spacing="5" fill="#f3eefc">BUILD</text>
+  <circle cx="208" cy="56" r="3" fill="#c77dff"/>
+  <text x="230" y="62" font-size="17" letter-spacing="5" fill="#f3eefc">LEARN</text>
+  <circle cx="343" cy="56" r="3" fill="#c77dff"/>
+  <text x="365" y="62" font-size="17" letter-spacing="5" fill="#f3eefc">CREATE</text>
+  <circle cx="490" cy="56" r="3" fill="#c77dff"/>
+  <text x="512" y="62" font-size="17" letter-spacing="5" fill="#f3eefc">GROW</text>
+
+  <text x="35" y="155" font-size="74" font-weight="700" fill="url(#purple)">Hi, I'm</text>
+  <text x="35" y="225" font-size="67" font-weight="700" fill="url(#purple)">Ratnam Singh</text>
+  <text x="37" y="260" font-size="16" letter-spacing="3" fill="#ffffff">PRODUCT ENGINEER · iOS DEVELOPER · EDTECH BUILDER</text>
+  <rect x="37" y="280" width="90" height="3" rx="2" fill="#c77dff"/>
+  <text x="37" y="318" font-size="22" fill="#f2effa">Swift</text><text x="150" y="318" font-size="22" fill="#f2effa">UIKit</text><text x="270" y="318" font-size="22" fill="#f2effa">SwiftUI</text><text x="405" y="318" font-size="22" fill="#f2effa">iOS</text><text x="490" y="318" font-size="22" fill="#f2effa">Xcode</text>
+  <text x="37" y="352" font-size="17" fill="#a9a4bd">Building meaningful products with clean code, beautiful design</text>
+  <text x="37" y="378" font-size="17" fill="#c77dff">and real-world impact.</text>
+
+  <g transform="translate(790 8) rotate(8 145 190)">
+    <rect x="35" y="0" width="245" height="420" rx="42" fill="#080713" stroke="#b7a8d9" stroke-width="5"/>
+    <rect x="48" y="18" width="219" height="394" rx="32" fill="#100b2b"/>
+    <rect x="115" y="9" width="86" height="23" rx="12" fill="#020208"/>
+    <text x="157" y="120" text-anchor="middle" font-size="55" fill="#c77dff">◢</text>
+    <text x="157" y="160" text-anchor="middle" font-size="23" font-style="italic" fill="white">Build Amazing</text>
+    <text x="157" y="190" text-anchor="middle" font-size="22" font-style="italic" fill="#c77dff">iOS Apps</text>
+    <text x="157" y="220" text-anchor="middle" font-size="13" fill="#b9b4c8">Clean Code. Scalable Apps.</text>
+    <text x="157" y="240" text-anchor="middle" font-size="13" fill="#b9b4c8">Great Performance.</text>
+    <rect x="70" y="270" width="175" height="50" rx="12" fill="#171033"/>
+    <text x="85" y="299" font-size="13" fill="#fff">▶  Now Playing</text>
+    <rect x="70" y="332" width="175" height="50" rx="12" fill="#171033"/>
+    <text x="85" y="361" font-size="13" fill="#fff">♥  Watchlist</text>
+  </g>
+</g>
+<g fill="#c77dff">
+  <circle cx="1125" cy="45" r="2"/><circle cx="1150" cy="45" r="2"/><circle cx="1175" cy="45" r="2"/>
+  <circle cx="1125" cy="68" r="2"/><circle cx="1150" cy="68" r="2"/><circle cx="1175" cy="68" r="2"/>
+  <circle cx="1125" cy="91" r="2"/><circle cx="1150" cy="91" r="2"/><circle cx="1175" cy="91" r="2"/>
+</g>
+</svg>
