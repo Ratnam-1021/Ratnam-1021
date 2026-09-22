@@ -37,7 +37,7 @@ Welcome to my GitHub! I love building intelligent applications, structured syste
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021api?username=Ratnam-1021&show_icons=trueshow_icons=trueapi?username=Ratnam-1021&show_icons=truecount_private=trueapi?username=Ratnam-1021&show_icons=trueinclude_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ratnam's GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ratnam-1021&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Ratnam's GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnam-1021&theme=radical&hide_border=true&background=0D1117" alt="Ratnam's GitHub Streak" />
